@@ -1,0 +1,4 @@
+repository "Mercenary@yellowdogprod@cloud"
+  path "/"
+    br "/main"
+    co "/main"
